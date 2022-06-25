@@ -7,7 +7,7 @@ module.exports = {
   // Make sure this is exactly the same as the email address you use to sign into your Microsoft account.
   // You can also put this in your Vercel's environment variable 'NEXT_PUBLIC_USER_PRINCIPLE_NAME' if you worry about
   // your email being exposed in public.
-  userPrincipalName: 'xxy@gakkilove.onmicrosoft.com',
+  userPrincipalName: 'xxy1@gakkilove.onmicrosoft.com',
 
   // [OPTIONAL] This is the website icon to the left of the title inside the navigation bar. It should be placed under the
   // /public directory of your GitHub project (not your OneDrive folder!), and referenced here by its relative path to /public.
@@ -42,7 +42,7 @@ module.exports = {
   protectedRoutes: ['/'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: 'mailto:spencer.wushangbo@gmail.com',
+  email: '202141262@qq.com',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
@@ -54,7 +54,7 @@ module.exports = {
     },
     {
       name: 'Telegram',
-      link: 'https://t.me/realSpencerWoo',
+      link: 'https://t.me/MrsQuin',
     },
   ],
 
